@@ -85,5 +85,3 @@ For a practical example of how to conduct RFM Analysis, please refer to the acco
 
 Conclusion
 RFM Analysis is a valuable technique for businesses to understand their customers, segment them effectively, and tailor marketing strategies for improved customer engagement and revenue growth. By leveraging the dimensions of Recency, Frequency, and Monetary value, businesses can make data-driven decisions to optimize their marketing efforts.
-
-For further details and specific implementation guidelines, refer to the documentation and code samples provided with this analysis
